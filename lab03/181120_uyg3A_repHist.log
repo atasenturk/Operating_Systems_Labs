@@ -1,0 +1,69 @@
+.:
+total 32
+ 4 pathSubmission
+ 4 pathRepository
+20 181120_uyg3A.exe
+ 4 181120_uyg3A.c
+
+./pathSubmission:
+total 4
+4 haahha
+0 efege
+
+./pathSubmission/haahha:
+total 0
+
+./pathRepository:
+total 12
+4 yeni
+4 lqefjq
+4 ahaha
+0 181120_uyg3A_repHist.log
+
+./pathRepository/yeni:
+total 0
+
+./pathRepository/lqefjq:
+total 0
+
+./pathRepository/ahaha:
+total 0
+.:
+total 32
+ 4 pathSubmission
+ 4 pathRepository
+20 181120_uyg3A.exe
+ 4 181120_uyg3A.c
+
+./pathSubmission:
+total 8
+4 haahha
+0 efege
+4 asfweg
+
+./pathSubmission/haahha:
+total 0
+
+./pathSubmission/asfweg:
+total 0
+
+./pathRepository:
+total 4
+4 181120_uyg3A_repHist.log
+.:
+total 32
+ 4 pathSubmission
+ 4 pathRepository
+20 181120_uyg3A.exe
+ 4 181120_uyg3A.c
+
+./pathSubmission:
+total 4
+4 trying
+
+./pathSubmission/trying:
+total 0
+
+./pathRepository:
+total 4
+4 181120_uyg3A_repHist.log

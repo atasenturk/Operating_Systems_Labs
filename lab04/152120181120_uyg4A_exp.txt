@@ -1,0 +1,8 @@
+a) Eğer fakülte mühendislik ve mimarlık fakültesi değil ise ve departman bilgisayar mühendisliği değil ise parent child
+prosesin işini bitirmesini bekler ve programı sonlandırır.
+b) Giriş yılı 2018 ve sonrası olduğu taktirde 4 saniyelik alarm devreye girer. Ve bu alarm beklemesinin ardından child
+proses sonlandırılarak program biter.
+c) Eğer fakülte doğru değil ise(mühendislik mimarlık fakültesi değil) multipleSignalHandler fonksiyonuna bir sinyal
+gönderilerek CTRL-C ve CTRL-Z interrupt'larını yoksaymasını sağladık. alarmHandler'a da bir alarm sinyali göndererek
+6 saniye sonra bu beklemenin biteceğini belirttik ve alarmFlag true olduğu zaman program sonlandı.
+d) Diğer durumlarda ise program direkt olarak sonlanır.

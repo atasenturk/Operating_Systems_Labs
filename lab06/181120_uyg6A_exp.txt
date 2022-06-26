@@ -1,0 +1,3 @@
+Read-only kısmı etext page kısmında geçerliydi. Bu kısımda segmentation fault almamak için etextten küçük olan sayılar
+için sadece okuma yapmayı denedik bu şekilde hata almadık. edata kısmından önceki kısımlar ise read-write kısımlarıydı.
+Bu kısımda da okuma ve yazma ikisini de yapabildik ve segmentation fault hatalarını önlemiş olduk.
